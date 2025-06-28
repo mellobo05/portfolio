@@ -1,0 +1,163 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Graphics Driver Optimization Framework",
+      "description": "Developed a comprehensive graphics driver optimization framework that improved GPU performance by 25% across Intel integrated graphics platforms.",
+      "category": ["system", "driver"],
+      "technologies": ["C++", "DirectX", "OpenGL", "Vulkan", "Linux Kernel"],
+      "status": "completed",
+      "featured": true,
+      "icon": "fas fa-microchip",
+      "year": "2024",
+      "details": {
+        "role": "Lead System Software Engineer",
+        "duration": "8 months",
+        "team_size": 5,
+        "impact": "25% performance improvement, 15% power reduction"
+      },
+      "links": {
+        "github": "#",
+        "demo": "#",
+        "documentation": "#"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Display Driver Power Management",
+      "description": "Implemented advanced power management features in display drivers, reducing power consumption by 30% while maintaining visual quality.",
+      "category": ["driver", "embedded"],
+      "technologies": ["C", "Assembly", "ACPI", "Power Management"],
+      "status": "completed",
+      "featured": true,
+      "icon": "fas fa-battery-half",
+      "year": "2023",
+      "details": {
+        "role": "System Software Engineer",
+        "duration": "6 months",
+        "team_size": 3,
+        "impact": "30% power reduction, extended battery life"
+      },
+      "links": {
+        "github": "#",
+        "whitepaper": "#"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Media Processing Pipeline",
+      "description": "Designed and developed a high-performance media processing pipeline for real-time video encoding/decoding with hardware acceleration.",
+      "category": ["system", "performance"],
+      "technologies": ["C++", "SIMD", "Intel Media SDK", "Threading"],
+      "status": "completed",
+      "featured": false,
+      "icon": "fas fa-play-circle",
+      "year": "2023",
+      "details": {
+        "role": "Software Engineer",
+        "duration": "4 months",
+        "team_size": 4,
+        "impact": "40% faster encoding, real-time 4K processing"
+      },
+      "links": {
+        "demo": "#",
+        "benchmark": "#"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Hardware Abstraction Layer",
+      "description": "Created a modular hardware abstraction layer for cross-platform compatibility, enabling code reuse across different Intel architectures.",
+      "category": ["system", "embedded"],
+      "technologies": ["C", "Platform APIs", "Cross-compilation", "CMake"],
+      "status": "completed",
+      "featured": false,
+      "icon": "fas fa-layer-group",
+      "year": "2022",
+      "details": {
+        "role": "Software Engineer",
+        "duration": "5 months",
+        "team_size": 2,
+        "impact": "60% code reuse, faster platform porting"
+      },
+      "links": {
+        "github": "#",
+        "documentation": "#"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Driver Debugging Toolkit",
+      "description": "Built a comprehensive debugging and profiling toolkit for driver development, reducing debug time by 50%.",
+      "category": ["tools", "driver"],
+      "technologies": ["Python", "C++", "WinDbg", "ETW", "Scripting"],
+      "status": "ongoing",
+      "featured": false,
+      "icon": "fas fa-bug",
+      "year": "2024",
+      "details": {
+        "role": "Tool Developer",
+        "duration": "3 months",
+        "team_size": 1,
+        "impact": "50% faster debugging, automated testing"
+      },
+      "links": {
+        "github": "#",
+        "tutorial": "#"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Performance Monitoring Dashboard",
+      "description": "Developed a real-time performance monitoring dashboard for system metrics and driver performance analysis.",
+      "category": ["tools", "performance"],
+      "technologies": ["React", "Node.js", "WebSocket", "D3.js", "REST API"],
+      "status": "completed",
+      "featured": false,
+      "icon": "fas fa-chart-line",
+      "year": "2023",
+      "details": {
+        "role": "Full Stack Developer",
+        "duration": "3 months",
+        "team_size": 2,
+        "impact": "Real-time monitoring, proactive issue detection"
+      },
+      "links": {
+        "demo": "#",
+        "github": "#"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Projects",
+      "count": 6
+    },
+    {
+      "id": "system",
+      "name": "System Software",
+      "count": 3
+    },
+    {
+      "id": "driver",
+      "name": "Driver Development",
+      "count": 3
+    },
+    {
+      "id": "embedded",
+      "name": "Embedded Systems",
+      "count": 2
+    },
+    {
+      "id": "performance",
+      "name": "Performance",
+      "count": 2
+    },
+    {
+      "id": "tools",
+      "name": "Development Tools",
+      "count": 2
+    }
+  ]
+}

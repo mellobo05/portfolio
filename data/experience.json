@@ -1,0 +1,158 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "position": "System Software Development Engineer",
+      "company": "Intel Corporation",
+      "location": "Folsom, CA",
+      "type": "Full-time",
+      "start_date": "2022-06-01",
+      "end_date": null,
+      "current": true,
+      "duration": "2+ years",
+      "description": "Lead development of graphics and display drivers for Intel integrated GPU platforms, focusing on performance optimization and power management.",
+      "responsibilities": [
+        "Designed and implemented graphics driver optimizations resulting in 25% performance improvement",
+        "Developed power management features reducing GPU power consumption by 30%",
+        "Led cross-functional team of 5 engineers in driver architecture redesign",
+        "Collaborated with hardware teams on silicon bring-up and validation",
+        "Mentored junior engineers on driver development best practices"
+      ],
+      "achievements": [
+        "Shipped driver updates to over 100M devices worldwide",
+        "Reduced customer-reported graphics issues by 40%",
+        "Received Intel Achievement Award for outstanding performance"
+      ],
+      "technologies": ["C", "C++", "DirectX", "OpenGL", "Vulkan", "Windows Driver Kit"],
+      "projects": [1, 2]
+    },
+    {
+      "id": 2,
+      "position": "Software Engineer",
+      "company": "Intel Corporation",
+      "location": "Folsom, CA",
+      "type": "Full-time",
+      "start_date": "2020-07-01",
+      "end_date": "2022-05-31",
+      "current": false,
+      "duration": "1 year 11 months",
+      "description": "Developed system software and media processing solutions for Intel platforms, focusing on hardware acceleration and performance optimization.",
+      "responsibilities": [
+        "Implemented media processing pipeline with hardware acceleration",
+        "Developed hardware abstraction layer for cross-platform compatibility",
+        "Created automated testing frameworks for driver validation",
+        "Optimized video encoding/decoding performance using SIMD instructions",
+        "Collaborated with firmware teams on hardware interface specifications"
+      ],
+      "achievements": [
+        "Achieved 40% faster video encoding performance",
+        "Enabled real-time 4K video processing capability",
+        "Contributed to 3 patent applications for media processing innovations"
+      ],
+      "technologies": ["C++", "Intel Media SDK", "SIMD", "Threading", "CMake"],
+      "projects": [3, 4]
+    },
+    {
+      "id": 3,
+      "position": "Junior Software Engineer",
+      "company": "Intel Corporation",
+      "location": "Folsom, CA",
+      "type": "Full-time",
+      "start_date": "2019-08-01",
+      "end_date": "2020-06-30",
+      "current": false,
+      "duration": "11 months",
+      "description": "Entry-level position focusing on embedded systems development and hardware integration for IoT and edge computing platforms.",
+      "responsibilities": [
+        "Developed firmware for embedded IoT devices",
+        "Implemented device drivers for various sensors and peripherals",
+        "Created board support packages for new hardware platforms",
+        "Participated in hardware bring-up and validation activities",
+        "Wrote technical documentation and user guides"
+      ],
+      "achievements": [
+        "Successfully brought up 5 new embedded platforms",
+        "Reduced firmware boot time by 50%",
+        "Completed Intel New Graduate Training Program with distinction"
+      ],
+      "technologies": ["C", "FreeRTOS", "I2C/SPI", "ARM Cortex", "Embedded Linux"],
+      "projects": []
+    },
+    {
+      "id": 4,
+      "position": "Software Engineering Intern",
+      "company": "Intel Corporation",
+      "location": "Folsom, CA",
+      "type": "Internship",
+      "start_date": "2019-06-01",
+      "end_date": "2019-08-31",
+      "current": false,
+      "duration": "3 months",
+      "description": "Summer internship focusing on driver development and system optimization for Intel graphics platforms.",
+      "responsibilities": [
+        "Analyzed graphics driver performance bottlenecks",
+        "Implemented performance monitoring tools",
+        "Conducted benchmarking and validation testing",
+        "Contributed to driver debugging and issue resolution",
+        "Presented findings to engineering leadership"
+      ],
+      "achievements": [
+        "Identified and fixed critical performance regression",
+        "Developed automated testing script adopted by team",
+        "Received offer for full-time position"
+      ],
+      "technologies": ["C++", "Python", "WinDbg", "Intel VTune", "Git"],
+      "projects": [5, 6]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Davis",
+      "location": "Davis, CA",
+      "start_year": 2015,
+      "end_year": 2019,
+      "gpa": "3.8/4.0",
+      "relevant_coursework": [
+        "Operating Systems",
+        "Computer Architecture",
+        "Systems Programming",
+        "Embedded Systems",
+        "Computer Graphics",
+        "Data Structures and Algorithms"
+      ],
+      "activities": [
+        "IEEE Computer Society Member",
+        "Women in Tech Club Secretary",
+        "ACM Programming Contest Participant"
+      ]
+    }
+  ],
+  "timeline_highlights": [
+    {
+      "year": "2019",
+      "title": "Graduated UC Davis",
+      "description": "B.S. Computer Science, 3.8 GPA"
+    },
+    {
+      "year": "2019",
+      "title": "Joined Intel",
+      "description": "Started as Software Engineering Intern"
+    },
+    {
+      "year": "2020",
+      "title": "Promoted to Software Engineer",
+      "description": "Full-time role in system software development"
+    },
+    {
+      "year": "2022",
+      "title": "Senior Engineer Promotion",
+      "description": "Advanced to System Software Development Engineer"
+    },
+    {
+      "year": "2024",
+      "title": "Technical Leadership",
+      "description": "Leading graphics driver optimization initiatives"
+    }
+  ]
+}

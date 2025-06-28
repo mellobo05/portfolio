@@ -1,0 +1,110 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Chen",
+      "position": "Principal Engineer",
+      "company": "Intel Corporation",
+      "relationship": "Direct Manager",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b9d1d8ee?w=100&h=100&fit=crop&crop=face",
+      "rating": 5,
+      "date": "2024-10-15",
+      "content": "Melanie is an exceptional system software engineer who consistently delivers high-quality solutions. Her work on graphics driver optimization has been instrumental in improving our product performance. She demonstrates strong technical leadership and excellent problem-solving skills.",
+      "highlighted": true,
+      "project_related": [1, 2]
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "position": "Senior Hardware Engineer",
+      "company": "Intel Corporation",
+      "relationship": "Cross-functional Collaborator",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+      "rating": 5,
+      "date": "2024-09-22",
+      "content": "Working with Melanie on hardware-software integration has been a pleasure. She quickly understands complex hardware requirements and translates them into efficient software solutions. Her driver development expertise is top-notch.",
+      "highlighted": false,
+      "project_related": [3, 4]
+    },
+    {
+      "id": 3,
+      "name": "Jennifer Park",
+      "position": "Software Engineering Manager",
+      "company": "Intel Corporation",
+      "relationship": "Previous Manager",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+      "rating": 5,
+      "date": "2024-08-30",
+      "content": "Melanie's technical depth in system software is impressive. She not only writes excellent code but also mentors junior engineers effectively. Her contribution to our media processing pipeline project exceeded all expectations.",
+      "highlighted": true,
+      "project_related": [3]
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "position": "Staff Software Engineer",
+      "company": "Intel Corporation",
+      "relationship": "Peer Collaborator",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+      "rating": 5,
+      "date": "2024-07-18",
+      "content": "Melanie's debugging skills are phenomenal. When we had a critical graphics driver issue affecting customer devices, she quickly identified the root cause and implemented a fix. Her systematic approach to problem-solving is exemplary.",
+      "highlighted": false,
+      "project_related": [1]
+    },
+    {
+      "id": 5,
+      "name": "Dr. Alan Thompson",
+      "position": "Research Scientist",
+      "company": "Intel Labs",
+      "relationship": "Research Collaborator",
+      "avatar": "https://images.unsplash.com/photo-1556157382-97eda2d62296?w=100&h=100&fit=crop&crop=face",
+      "rating": 5,
+      "date": "2024-06-10",
+      "content": "Melanie collaborated with our research team on advanced graphics algorithms. Her ability to bridge theoretical concepts with practical implementation is remarkable. She's a true engineer-scientist hybrid.",
+      "highlighted": false,
+      "project_related": [1, 2]
+    },
+    {
+      "id": 6,
+      "name": "Rachel Stevens",
+      "position": "Product Manager",
+      "company": "Intel Corporation",
+      "relationship": "Cross-functional Partner",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop&crop=face",
+      "rating": 5,
+      "date": "2024-05-25",
+      "content": "Melanie understands both technical requirements and customer needs. Her work on power management features directly addressed key customer pain points. She's a valuable partner for product development.",
+      "highlighted": true,
+      "project_related": [2]
+    }
+  ],
+  "stats": {
+    "total_testimonials": 6,
+    "average_rating": 5.0,
+    "highlighted_count": 3,
+    "companies_represented": 2,
+    "relationships": {
+      "managers": 2,
+      "peers": 2,
+      "collaborators": 2
+    }
+  },
+  "featured_quotes": [
+    {
+      "quote": "Her work on graphics driver optimization has been instrumental in improving our product performance.",
+      "author": "Dr. Sarah Chen",
+      "position": "Principal Engineer, Intel"
+    },
+    {
+      "quote": "She's a true engineer-scientist hybrid with remarkable ability to bridge theory with implementation.",
+      "author": "Dr. Alan Thompson",
+      "position": "Research Scientist, Intel Labs"
+    },
+    {
+      "quote": "Her systematic approach to problem-solving is exemplary.",
+      "author": "David Kim",
+      "position": "Staff Software Engineer, Intel"
+    }
+  ]
+}

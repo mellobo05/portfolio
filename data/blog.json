@@ -1,0 +1,97 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Optimizing Graphics Drivers for Modern Gaming",
+      "slug": "optimizing-graphics-drivers-modern-gaming",
+      "excerpt": "Exploring advanced techniques for graphics driver optimization to enhance gaming performance and reduce latency.",
+      "content": "In the ever-evolving landscape of modern gaming, graphics drivers play a crucial role in delivering smooth, high-performance experiences. As a System Software Development Engineer at Intel, I've had the opportunity to work on cutting-edge driver optimization techniques that significantly impact gaming performance...",
+      "author": "Melanie Lobo",
+      "date": "2024-01-15",
+      "category": "Graphics",
+      "tags": ["Graphics Drivers", "Performance", "Gaming", "DirectX", "Vulkan"],
+      "featured": true,
+      "read_time": 8,
+      "image": "graphics-optimization.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Power Management in Embedded Systems",
+      "slug": "power-management-embedded-systems",
+      "excerpt": "Deep dive into advanced power management strategies for embedded systems and their implementation challenges.",
+      "content": "Power management is one of the most critical aspects of embedded system design, especially in today's world where energy efficiency is paramount. This post explores various power management techniques and their practical implementation...",
+      "author": "Melanie Lobo",
+      "date": "2024-01-08",
+      "category": "Embedded Systems",
+      "tags": ["Power Management", "Embedded Systems", "ACPI", "Low Power"],
+      "featured": false,
+      "read_time": 6,
+      "image": "power-management.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Understanding Modern Media Processing Pipelines",
+      "slug": "understanding-modern-media-processing-pipelines",
+      "excerpt": "An in-depth look at how modern media processing pipelines work and the role of hardware acceleration.",
+      "content": "Media processing has evolved dramatically with the advent of hardware acceleration and sophisticated pipeline architectures. This article examines the key components of modern media processing systems...",
+      "author": "Melanie Lobo",
+      "date": "2023-12-20",
+      "category": "Media Processing",
+      "tags": ["Media Processing", "Hardware Acceleration", "Video Encoding", "Performance"],
+      "featured": true,
+      "read_time": 10,
+      "image": "media-pipeline.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Kernel Development Best Practices",
+      "slug": "kernel-development-best-practices",
+      "excerpt": "Essential best practices for kernel development, debugging techniques, and common pitfalls to avoid.",
+      "content": "Kernel development requires a unique set of skills and practices. This comprehensive guide covers best practices, debugging techniques, and common pitfalls that every kernel developer should know...",
+      "author": "Melanie Lobo",
+      "date": "2023-12-10",
+      "category": "System Software",
+      "tags": ["Kernel Development", "Linux", "Debugging", "Best Practices"],
+      "featured": false,
+      "read_time": 12,
+      "image": "kernel-development.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cross-Platform Driver Development Challenges",
+      "slug": "cross-platform-driver-development-challenges",
+      "excerpt": "Exploring the challenges and solutions in developing drivers that work across multiple operating systems.",
+      "content": "Developing drivers that work seamlessly across different operating systems presents unique challenges. This post explores strategies and solutions for cross-platform driver development...",
+      "author": "Melanie Lobo",
+      "date": "2023-11-25",
+      "category": "Driver Development",
+      "tags": ["Driver Development", "Cross-Platform", "Windows", "Linux", "macOS"],
+      "featured": false,
+      "read_time": 9,
+      "image": "cross-platform.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Future of System Software Engineering",
+      "slug": "future-system-software-engineering",
+      "excerpt": "Predictions and trends in system software engineering, including AI integration and next-generation hardware support.",
+      "content": "As we look toward the future of system software engineering, several exciting trends are emerging. From AI-assisted development to support for next-generation hardware architectures...",
+      "author": "Melanie Lobo",
+      "date": "2023-11-15",
+      "category": "Industry Trends",
+      "tags": ["Future Trends", "AI", "System Software", "Hardware"],
+      "featured": true,
+      "read_time": 7,
+      "image": "future-tech.jpg"
+    }
+  ],
+  "categories": [
+    "Graphics",
+    "Embedded Systems",
+    "Media Processing",
+    "System Software",
+    "Driver Development",
+    "Industry Trends"
+  ],
+  "featured_posts": [1, 3, 6]
+}

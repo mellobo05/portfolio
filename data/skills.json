@@ -1,0 +1,191 @@
+{
+  "technical_skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        {
+          "name": "C",
+          "level": 95,
+          "years": 6,
+          "description": "Kernel programming, device drivers, embedded systems"
+        },
+        {
+          "name": "C++",
+          "level": 90,
+          "years": 5,
+          "description": "System software, graphics programming, performance optimization"
+        },
+        {
+          "name": "Assembly",
+          "level": 80,
+          "years": 4,
+          "description": "Low-level optimization, bootloaders, hardware interfaces"
+        },
+        {
+          "name": "Python",
+          "level": 85,
+          "years": 4,
+          "description": "Automation, testing frameworks, data analysis"
+        },
+        {
+          "name": "Rust",
+          "level": 70,
+          "years": 2,
+          "description": "System programming, performance-critical applications"
+        }
+      ]
+    },
+    {
+      "category": "System Software",
+      "skills": [
+        {
+          "name": "Linux Kernel",
+          "level": 90,
+          "years": 5,
+          "description": "Kernel module development, device drivers"
+        },
+        {
+          "name": "Windows Driver Development",
+          "level": 85,
+          "years": 4,
+          "description": "KMDF, UMDF, WDM drivers"
+        },
+        {
+          "name": "UEFI/BIOS",
+          "level": 75,
+          "years": 3,
+          "description": "Firmware development, system initialization"
+        },
+        {
+          "name": "Real-time Systems",
+          "level": 80,
+          "years": 4,
+          "description": "FreeRTOS, deterministic programming"
+        }
+      ]
+    },
+    {
+      "category": "Graphics & Media",
+      "skills": [
+        {
+          "name": "DirectX",
+          "level": 85,
+          "years": 3,
+          "description": "D3D11/D3D12, DXVA, driver integration"
+        },
+        {
+          "name": "OpenGL/Vulkan",
+          "level": 80,
+          "years": 3,
+          "description": "Graphics pipeline, shader programming"
+        },
+        {
+          "name": "Intel Media SDK",
+          "level": 90,
+          "years": 4,
+          "description": "Hardware-accelerated media processing"
+        },
+        {
+          "name": "Video Codecs",
+          "level": 75,
+          "years": 2,
+          "description": "H.264, H.265, AV1 encoding/decoding"
+        }
+      ]
+    },
+    {
+      "category": "Hardware Platforms",
+      "skills": [
+        {
+          "name": "Intel x86/x64",
+          "level": 95,
+          "years": 6,
+          "description": "Architecture optimization, instruction sets"
+        },
+        {
+          "name": "ARM Cortex",
+          "level": 75,
+          "years": 3,
+          "description": "Embedded systems, cross-compilation"
+        },
+        {
+          "name": "PCIe/USB",
+          "level": 85,
+          "years": 4,
+          "description": "Device communication, protocol implementation"
+        },
+        {
+          "name": "I2C/SPI/UART",
+          "level": 90,
+          "years": 5,
+          "description": "Serial communication, sensor interfaces"
+        }
+      ]
+    },
+    {
+      "category": "Development Tools",
+      "skills": [
+        {
+          "name": "Git/GitHub",
+          "level": 90,
+          "years": 6,
+          "description": "Version control, collaboration workflows"
+        },
+        {
+          "name": "Intel VTune",
+          "level": 85,
+          "years": 3,
+          "description": "Performance profiling and optimization"
+        },
+        {
+          "name": "WinDbg/GDB",
+          "level": 80,
+          "years": 4,
+          "description": "Kernel and user-mode debugging"
+        },
+        {
+          "name": "Jenkins/CI-CD",
+          "level": 75,
+          "years": 2,
+          "description": "Automated testing and deployment"
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Intel Developer Certificate",
+      "issuer": "Intel Corporation",
+      "year": 2023,
+      "status": "active"
+    },
+    {
+      "name": "Microsoft Certified: Azure IoT Developer",
+      "issuer": "Microsoft",
+      "year": 2022,
+      "status": "active"
+    }
+  ],
+  "soft_skills": [
+    {
+      "name": "Problem Solving",
+      "level": 95,
+      "description": "Complex system debugging and optimization"
+    },
+    {
+      "name": "Team Collaboration",
+      "level": 90,
+      "description": "Cross-functional team coordination"
+    },
+    {
+      "name": "Technical Communication",
+      "level": 85,
+      "description": "Documentation and knowledge sharing"
+    },
+    {
+      "name": "Project Management",
+      "level": 80,
+      "description": "Agile methodologies and deadline management"
+    }
+  ]
+}

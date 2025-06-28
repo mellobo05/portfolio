@@ -1,0 +1,50 @@
+{
+  "name": "Melanie Lobo Portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Melanie Lobo - System Software Development Engineer at Intel",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "npm run minify-css && npm run minify-js",
+    "minify-css": "cleancss -o css/style.min.css css/style.css",
+    "minify-js": "uglifyjs js/script.js -o js/script.min.js",
+    "lint": "eslint js/*.js",
+    "validate-html": "html-validate *.html",
+    "optimize-images": "imagemin images/* --out-dir=images/optimized"
+  },
+  "keywords": [
+    "portfolio",
+    "system-software",
+    "intel",
+    "driver-development",
+    "graphics-drivers",
+    "display-drivers",
+    "media-drivers",
+    "performance-optimization",
+    "embedded-systems"
+  ],
+  "author": {
+    "name": "Melanie Lobo",
+    "email": "hello@melanielobo.com",
+    "url": "https://melanielobo.com",
+    "linkedin": "https://www.linkedin.com/in/melanie051095"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melanielobo/portfolio"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "clean-css-cli": "^5.6.2",
+    "uglify-js": "^3.17.4",
+    "eslint": "^8.57.0",
+    "html-validate": "^8.7.4",
+    "imagemin": "^8.0.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

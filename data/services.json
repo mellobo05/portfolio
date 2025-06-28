@@ -1,0 +1,156 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "System Software Development",
+      "description": "Custom system software solutions including driver development, kernel modules, and low-level system programming for optimal hardware integration.",
+      "icon": "fas fa-microchip",
+      "featured": true,
+      "badge": "Most Popular",
+      "features": [
+        "Device Driver Development",
+        "Kernel Module Programming",
+        "Hardware Abstraction Layers",
+        "Performance Optimization",
+        "Cross-platform Compatibility"
+      ],
+      "technologies": ["C", "C++", "Assembly", "Linux Kernel", "Windows Driver Kit"],
+      "pricing": {
+        "type": "project",
+        "starting_price": 5000,
+        "currency": "USD"
+      },
+      "delivery_time": "4-12 weeks"
+    },
+    {
+      "id": 2,
+      "title": "Graphics & Display Driver Development",
+      "description": "Specialized graphics and display driver development for Intel platforms, including DirectX, OpenGL, and Vulkan API integration.",
+      "icon": "fas fa-display",
+      "featured": false,
+      "badge": null,
+      "features": [
+        "Graphics Driver Optimization",
+        "Display Driver Development",
+        "DirectX/OpenGL/Vulkan Support",
+        "Power Management",
+        "Multi-monitor Support"
+      ],
+      "technologies": ["DirectX", "OpenGL", "Vulkan", "WDDM", "KMS/DRM"],
+      "pricing": {
+        "type": "project",
+        "starting_price": 7500,
+        "currency": "USD"
+      },
+      "delivery_time": "6-16 weeks"
+    },
+    {
+      "id": 3,
+      "title": "Performance Optimization",
+      "description": "Comprehensive performance analysis and optimization for system software, focusing on latency reduction and throughput improvement.",
+      "icon": "fas fa-tachometer-alt",
+      "featured": false,
+      "badge": null,
+      "features": [
+        "Performance Profiling",
+        "Code Optimization",
+        "Memory Management",
+        "Cache Optimization",
+        "Parallel Processing"
+      ],
+      "technologies": ["Intel VTune", "Perf", "Valgrind", "SIMD", "Threading"],
+      "pricing": {
+        "type": "hourly",
+        "starting_price": 150,
+        "currency": "USD"
+      },
+      "delivery_time": "2-8 weeks"
+    },
+    {
+      "id": 4,
+      "title": "Embedded Systems Development",
+      "description": "End-to-end embedded systems development including firmware, bootloaders, and real-time operating system integration.",
+      "icon": "fas fa-cogs",
+      "featured": false,
+      "badge": null,
+      "features": [
+        "Firmware Development",
+        "Bootloader Programming",
+        "RTOS Integration",
+        "Hardware Bring-up",
+        "Board Support Packages"
+      ],
+      "technologies": ["FreeRTOS", "U-Boot", "Device Tree", "I2C/SPI/UART", "ARM/x86"],
+      "pricing": {
+        "type": "project",
+        "starting_price": 4000,
+        "currency": "USD"
+      },
+      "delivery_time": "3-10 weeks"
+    },
+    {
+      "id": 5,
+      "title": "Hardware Integration & Testing",
+      "description": "Hardware validation, integration testing, and automated test framework development for system software components.",
+      "icon": "fas fa-flask",
+      "featured": false,
+      "badge": null,
+      "features": [
+        "Hardware Validation",
+        "Integration Testing",
+        "Automated Test Frameworks",
+        "CI/CD for Hardware",
+        "Performance Benchmarking"
+      ],
+      "technologies": ["Python", "Jenkins", "Robot Framework", "LabVIEW", "Oscilloscopes"],
+      "pricing": {
+        "type": "project",
+        "starting_price": 3500,
+        "currency": "USD"
+      },
+      "delivery_time": "2-6 weeks"
+    },
+    {
+      "id": 6,
+      "title": "Technical Consulting & Architecture",
+      "description": "Strategic technical consulting for system architecture design, technology stack selection, and development process optimization.",
+      "icon": "fas fa-lightbulb",
+      "featured": false,
+      "badge": null,
+      "features": [
+        "System Architecture Design",
+        "Technology Assessment",
+        "Code Review & Auditing",
+        "Team Mentoring",
+        "Process Optimization"
+      ],
+      "technologies": ["Architecture Patterns", "Best Practices", "Code Quality", "Agile", "DevOps"],
+      "pricing": {
+        "type": "hourly",
+        "starting_price": 200,
+        "currency": "USD"
+      },
+      "delivery_time": "1-4 weeks"
+    }
+  ],
+  "service_categories": [
+    "System Software",
+    "Driver Development",
+    "Performance Optimization",
+    "Embedded Systems",
+    "Hardware Integration",
+    "Technical Consulting"
+  ],
+  "pricing_info": {
+    "note": "All pricing is estimate-based and may vary depending on project complexity and requirements.",
+    "consultation": {
+      "initial_consultation": "Free 30-minute consultation",
+      "detailed_assessment": "$200/hour"
+    },
+    "payment_terms": {
+      "deposit": "50% upfront",
+      "milestones": "Progressive payments based on milestones",
+      "final_payment": "Upon project completion"
+    }
+  }
+}
