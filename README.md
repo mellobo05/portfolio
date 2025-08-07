@@ -161,9 +161,9 @@ Add new project entries to `data/projects.json`:
 
 ## Contact
 
-- **Email**: [miguel.lobomela@example.com](mailto:miguel.lobomela@example.com)
-- **LinkedIn**: [https://linkedin.com/in/miguel-lobo-mela](https://linkedin.com/in/miguel-lobo-mela)
-- **GitHub**: [https://github.com/miguellobomela](https://github.com/miguellobomela)
+- **Email**: [melanieharriert05@gmail.com](mailto:melanieharriet05@gmail.com)
+- **LinkedIn**: [https://linkedin.com/in/melanie051095](https://www.linkedin.com/in/melanie051095)
+- **GitHub**: [https://github.com/mellobo05](https://github.com/mellobo05)
 
 ## License
 
