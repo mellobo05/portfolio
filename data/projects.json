@@ -17,7 +17,6 @@
         "impact": "30% reduction in debugging time, automated error classification"
       },
       "links": {
-        "demo": "#"
       }
     },
     {
@@ -37,7 +36,6 @@
         "impact": "Streamlined SysDebug processes, reduced manual testing"
       },
       "links": {
-        "whitepaper": "#"
       }
     },
     {
@@ -58,8 +56,7 @@
       },
       "links": {
         "github": "https://github.com/mellobo05",
-        "demo": "https://ai-llm-gpwmovrb7fxzm5dbs75mnr.streamlit.app/",
-        "streamlit": "https://ai-llm-gpwmovrb7fxzm5dbs75mnr.streamlit.app/"
+        "demo": "https://ai-llm-gpwmovrb7fxzm5dbs75mnr.streamlit.app/"
       }
     },
     {
@@ -74,13 +71,12 @@
       "year": "2024",
       "details": {
         "role": "AI Developer",
-        "duration": "3 months",
+        "duration": "1 month",
         "team_size": 1,
         "impact": "Automated news analysis, multi-agent coordination"
       },
       "links": {
-        "github": "https://github.com/mellobo05",
-        "demo": "#"
+        "github": "https://github.com/mellobo05"
       }
     },
     {
@@ -117,7 +113,7 @@
       "year": "2024",
       "details": {
         "role": "Workflow Automation Developer",
-        "duration": "2 months",
+        "duration": "1 month",
         "team_size": 1,
         "impact": "Automated expense tracking, intelligent categorization, financial insights"
       },
@@ -129,23 +125,22 @@
     },
     {
       "id": 7,
-      "title": "Chrome OS Hardware Video Decoding Validation",
-      "description": "Contributed to improving hardware video decoding validation for tiled formats in Chrome OS. Demonstrated understanding of VA-API, display modifiers, and GPU-accelerated media stacks.",
-      "category": ["open-source", "system"],
-      "technologies": ["C++", "Chrome OS", "VA-API", "GPU", "Media Processing"],
-      "status": "completed",
-      "featured": false,
-      "icon": "fas fa-video",
+      "title": "Chromebook Platform Debug - Graphics/Media/Display Domain",
+      "description": "Currently working on training Google models on embedded systems and measuring performance of real-world LLMs. Focused on graphics, media, and display domain optimization for Chromebook platforms.",
+      "category": ["ai", "system"],
+      "technologies": ["C++", "Chrome OS", "Machine Learning", "LLMs", "Embedded Systems", "Performance Optimization"],
+      "status": "ongoing",
+      "featured": true,
+      "icon": "fas fa-laptop-code",
       "year": "2024",
       "details": {
-        "role": "Open Source Contributor",
-        "duration": "2 months",
-        "team_size": 1,
-        "impact": "Enhanced video processing capabilities for Chrome OS"
+        "role": "Software Development Engineer",
+        "duration": "Ongoing",
+        "team_size": 3,
+        "impact": "Training and optimizing LLMs for embedded systems, performance measurement"
       },
       "links": {
-        "github": "https://github.com/mellobo05",
-        "upstream": "#"
+        "github": "https://github.com/mellobo05"
       }
     }
   ],
