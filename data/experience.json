@@ -62,15 +62,16 @@
       "end_year": 2018,
       "gpa": "9.64/10",
       "relevant_coursework": [
-        "Machine Learning",
+        "Information Systems",
         "Data Structures and Algorithms",
         "Database Management Systems",
         "Software Engineering",
         "Computer Networks",
-        "Information Systems"
+        "Mobile Application Development"
       ],
       "activities": [
-        "Research in AI and Machine Learning",
+        "Android App Development Projects",
+        "APCOG Labs - Software Testing with JMeter and Selenium",
         "Academic Excellence Award",
         "Technical Paper Presentations"
       ]

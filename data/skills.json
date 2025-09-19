@@ -85,6 +85,18 @@
           "level": 80,
           "years": 4,
           "description": "CI/CD pipelines, automated testing, deployment"
+        },
+        {
+          "name": "JMeter",
+          "level": 85,
+          "years": 3,
+          "description": "Performance testing, load testing, API testing, APCOG Labs experience"
+        },
+        {
+          "name": "Selenium",
+          "level": 80,
+          "years": 3,
+          "description": "Web automation testing, test automation frameworks, APCOG Labs experience"
         }
       ]
     },
@@ -290,6 +302,12 @@
           "level": 85,
           "years": 4,
           "description": "Mobile development, driver integration, platform testing"
+        },
+        {
+          "name": "Android App Development",
+          "level": 80,
+          "years": 3,
+          "description": "Mobile application development, Java/Kotlin, Android Studio, Manipal University projects"
         },
         {
           "name": "Windows",

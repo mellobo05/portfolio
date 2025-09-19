@@ -17,9 +17,7 @@
         "impact": "30% reduction in debugging time, automated error classification"
       },
       "links": {
-        "github": "#",
-        "demo": "#",
-        "documentation": "#"
+        "demo": "#"
       }
     },
     {
@@ -39,7 +37,6 @@
         "impact": "Streamlined SysDebug processes, reduced manual testing"
       },
       "links": {
-        "github": "#",
         "whitepaper": "#"
       }
     },
