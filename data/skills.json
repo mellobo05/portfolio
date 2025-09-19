@@ -69,9 +69,9 @@
           "description": "Project management, issue tracking, agile workflows"
         },
         {
-          "name": "Android Studio",
+          "name": "Android",
           "level": 80,
-          "years": 4,
+          "years": 1,
           "description": "Android development, mobile app debugging"
         },
         {
@@ -130,7 +130,7 @@
         {
           "name": "Agentic AI",
           "level": 75,
-          "years": 2,
+          "years": 1,
           "description": "Multi-agent systems, crewai, automated workflows"
         },
         {
