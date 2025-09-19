@@ -2,19 +2,19 @@
   "projects": [
     {
       "id": 1,
-      "title": "Graphics Driver Optimization Framework",
-      "description": "Developed a comprehensive graphics driver optimization framework that improved GPU performance by 25% across Intel integrated graphics platforms.",
-      "category": ["system", "driver"],
-      "technologies": ["C++", "DirectX", "OpenGL", "Vulkan", "Linux Kernel"],
+      "title": "AI-Driven Debugging Tool at Intel",
+      "description": "Developed AI-based log analysis using DL/LLM models, reducing manual debugging time by 30%. Built comprehensive automation framework for system-level debugging and validation.",
+      "category": ["ai", "automation"],
+      "technologies": ["Python", "Machine Learning", "LLMs", "RAG", "Deep Learning"],
       "status": "completed",
       "featured": true,
-      "icon": "fas fa-microchip",
+      "icon": "fas fa-brain",
       "year": "2024",
       "details": {
-        "role": "Lead System Software Engineer",
+        "role": "Lead AI Engineer",
         "duration": "8 months",
-        "team_size": 5,
-        "impact": "25% performance improvement, 15% power reduction"
+        "team_size": 3,
+        "impact": "30% reduction in debugging time, automated error classification"
       },
       "links": {
         "github": "#",
@@ -24,19 +24,19 @@
     },
     {
       "id": 2,
-      "title": "Display Driver Power Management",
-      "description": "Implemented advanced power management features in display drivers, reducing power consumption by 30% while maintaining visual quality.",
-      "category": ["driver", "embedded"],
-      "technologies": ["C", "Assembly", "ACPI", "Power Management"],
+      "title": "Automation Framework (Server Platforms) at Intel",
+      "description": "Designed a framework to automate the validation flow using Deep Learning. Built automation framework using Raspberry Pi and relay switches for server platform testing.",
+      "category": ["automation", "system"],
+      "technologies": ["Python", "Deep Learning", "Raspberry Pi", "Automation", "Server Platforms"],
       "status": "completed",
       "featured": true,
-      "icon": "fas fa-battery-half",
+      "icon": "fas fa-cogs",
       "year": "2023",
       "details": {
-        "role": "System Software Engineer",
+        "role": "Automation Engineer",
         "duration": "6 months",
-        "team_size": 3,
-        "impact": "30% power reduction, extended battery life"
+        "team_size": 2,
+        "impact": "Streamlined SysDebug processes, reduced manual testing"
       },
       "links": {
         "github": "#",
@@ -45,86 +45,110 @@
     },
     {
       "id": 3,
-      "title": "Media Processing Pipeline",
-      "description": "Designed and developed a high-performance media processing pipeline for real-time video encoding/decoding with hardware acceleration.",
-      "category": ["system", "performance"],
-      "technologies": ["C++", "SIMD", "Intel Media SDK", "Threading"],
+      "title": "Prostate Cancer Research Assistant (Personal)",
+      "description": "Retrieval-Augmented Generation app with Streamlit, LangChain, ChromaDB, Google GenAI. Supports PDF ingestion, intelligent Q&A, and PSA trend extraction with persistent vector store. Deployed on Streamlit Cloud for public access.",
+      "category": ["ai", "web"],
+      "technologies": ["Python", "Streamlit", "LangChain", "ChromaDB", "Google GenAI", "RAG", "Vector Store"],
       "status": "completed",
-      "featured": false,
-      "icon": "fas fa-play-circle",
-      "year": "2023",
+      "featured": true,
+      "icon": "fas fa-heartbeat",
+      "year": "2024",
       "details": {
-        "role": "Software Engineer",
+        "role": "Full Stack AI Developer",
         "duration": "4 months",
-        "team_size": 4,
-        "impact": "40% faster encoding, real-time 4K processing"
+        "team_size": 1,
+        "impact": "Medical research assistance, intelligent document analysis, deployed on cloud"
       },
       "links": {
-        "demo": "#",
-        "benchmark": "#"
+        "github": "https://github.com/mellobo05",
+        "demo": "https://ai-llm-gpwmovrb7fxzm5dbs75mnr.streamlit.app/",
+        "streamlit": "https://ai-llm-gpwmovrb7fxzm5dbs75mnr.streamlit.app/"
       }
     },
     {
       "id": 4,
-      "title": "Hardware Abstraction Layer",
-      "description": "Created a modular hardware abstraction layer for cross-platform compatibility, enabling code reuse across different Intel architectures.",
-      "category": ["system", "embedded"],
-      "technologies": ["C", "Platform APIs", "Cross-compilation", "CMake"],
+      "title": "Agentic AI Project (Personal)",
+      "description": "Built a multi-agent system using crewai library for AI-powered news aggregation and analysis. The system utilizes different agents with specific roles and tasks to gather information, summarize it, and provide analysis.",
+      "category": ["ai", "automation"],
+      "technologies": ["Python", "CrewAI", "Agentic AI", "Multi-agent Systems", "News Analysis"],
       "status": "completed",
       "featured": false,
-      "icon": "fas fa-layer-group",
-      "year": "2022",
+      "icon": "fas fa-robot",
+      "year": "2024",
       "details": {
-        "role": "Software Engineer",
-        "duration": "5 months",
-        "team_size": 2,
-        "impact": "60% code reuse, faster platform porting"
+        "role": "AI Developer",
+        "duration": "3 months",
+        "team_size": 1,
+        "impact": "Automated news analysis, multi-agent coordination"
       },
       "links": {
-        "github": "#",
-        "documentation": "#"
+        "github": "https://github.com/mellobo05",
+        "demo": "#"
       }
     },
     {
       "id": 5,
-      "title": "Driver Debugging Toolkit",
-      "description": "Built a comprehensive debugging and profiling toolkit for driver development, reducing debug time by 50%.",
-      "category": ["tools", "driver"],
-      "technologies": ["Python", "C++", "WinDbg", "ETW", "Scripting"],
-      "status": "ongoing",
-      "featured": false,
-      "icon": "fas fa-bug",
+      "title": "AI-Powered Diet Food Recommendation System",
+      "description": "Full-stack AI-powered food recommendation system that learns from user history to suggest diet-friendly products. Features intelligent product ranking, price optimization, and personalized recommendations. Deployed using modern cloud architecture.",
+      "category": ["ai", "web", "fullstack"],
+      "technologies": ["React", "Tailwind CSS", "Express", "Prisma", "PostgreSQL", "FastAPI", "Python", "Docker", "Vercel", "Render", "Hugging Face"],
+      "status": "completed",
+      "featured": true,
+      "icon": "fas fa-utensils",
       "year": "2024",
       "details": {
-        "role": "Tool Developer",
+        "role": "Full Stack AI Developer",
         "duration": "3 months",
         "team_size": 1,
-        "impact": "50% faster debugging, automated testing"
+        "impact": "Intelligent food recommendations, e-commerce integration, cloud deployment"
       },
       "links": {
-        "github": "#",
-        "tutorial": "#"
+        "github": "https://github.com/mellobo05/diet-ai-recommender",
+        "demo": "https://diet-ai-frontend-kappa.vercel.app/",
+        "vercel": "https://diet-ai-frontend-kappa.vercel.app/"
       }
     },
     {
       "id": 6,
-      "title": "Performance Monitoring Dashboard",
-      "description": "Developed a real-time performance monitoring dashboard for system metrics and driver performance analysis.",
-      "category": ["tools", "performance"],
-      "technologies": ["React", "Node.js", "WebSocket", "D3.js", "REST API"],
+      "title": "Personal Expense Tracker with n8n Workflow",
+      "description": "Automated expense tracking system using n8n workflow with Telegram bot integration and AI agent. Features intelligent expense categorization, Google Sheets integration, and email notifications for comprehensive financial management.",
+      "category": ["automation", "ai", "workflow"],
+      "technologies": ["n8n", "Telegram Bot", "AI Agent", "Google Sheets", "Gmail API", "Google Gemini", "Workflow Automation"],
       "status": "completed",
-      "featured": false,
-      "icon": "fas fa-chart-line",
-      "year": "2023",
+      "featured": true,
+      "icon": "fas fa-chart-pie",
+      "year": "2024",
       "details": {
-        "role": "Full Stack Developer",
-        "duration": "3 months",
-        "team_size": 2,
-        "impact": "Real-time monitoring, proactive issue detection"
+        "role": "Workflow Automation Developer",
+        "duration": "2 months",
+        "team_size": 1,
+        "impact": "Automated expense tracking, intelligent categorization, financial insights"
       },
       "links": {
-        "demo": "#",
-        "github": "#"
+        "github": "https://github.com/mellobo05/n8n_Expense_tracker",
+        "workflow": "https://github.com/mellobo05/n8n_Expense_tracker/blob/main/Expense%20Tracker%20Agent.json",
+        "n8n": "https://n8n.io"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Chrome OS Hardware Video Decoding Validation",
+      "description": "Contributed to improving hardware video decoding validation for tiled formats in Chrome OS. Demonstrated understanding of VA-API, display modifiers, and GPU-accelerated media stacks.",
+      "category": ["open-source", "system"],
+      "technologies": ["C++", "Chrome OS", "VA-API", "GPU", "Media Processing"],
+      "status": "completed",
+      "featured": false,
+      "icon": "fas fa-video",
+      "year": "2024",
+      "details": {
+        "role": "Open Source Contributor",
+        "duration": "2 months",
+        "team_size": 1,
+        "impact": "Enhanced video processing capabilities for Chrome OS"
+      },
+      "links": {
+        "github": "https://github.com/mellobo05",
+        "upstream": "#"
       }
     }
   ],
@@ -132,32 +156,42 @@
     {
       "id": "all",
       "name": "All Projects",
-      "count": 6
+      "count": 7
+    },
+    {
+      "id": "ai",
+      "name": "AI & Machine Learning",
+      "count": 4
+    },
+    {
+      "id": "automation",
+      "name": "Automation",
+      "count": 3
+    },
+    {
+      "id": "web",
+      "name": "Web Development",
+      "count": 3
+    },
+    {
+      "id": "fullstack",
+      "name": "Full Stack",
+      "count": 1
+    },
+    {
+      "id": "workflow",
+      "name": "Workflow Automation",
+      "count": 1
     },
     {
       "id": "system",
       "name": "System Software",
-      "count": 3
-    },
-    {
-      "id": "driver",
-      "name": "Driver Development",
-      "count": 3
-    },
-    {
-      "id": "embedded",
-      "name": "Embedded Systems",
       "count": 2
     },
     {
-      "id": "performance",
-      "name": "Performance",
-      "count": 2
-    },
-    {
-      "id": "tools",
-      "name": "Development Tools",
-      "count": 2
+      "id": "open-source",
+      "name": "Open Source",
+      "count": 1
     }
   ]
 }

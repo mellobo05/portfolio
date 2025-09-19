@@ -6,61 +6,126 @@
         {
           "name": "C",
           "level": 95,
-          "years": 6,
-          "description": "Kernel programming, device drivers, embedded systems"
+          "years": 7,
+          "description": "Kernel programming, device drivers, system-level development"
         },
         {
           "name": "C++",
           "level": 90,
-          "years": 5,
+          "years": 6,
           "description": "System software, graphics programming, performance optimization"
         },
         {
-          "name": "Assembly",
-          "level": 80,
-          "years": 4,
-          "description": "Low-level optimization, bootloaders, hardware interfaces"
+          "name": "Python",
+          "level": 95,
+          "years": 7,
+          "description": "AI/ML automation, testing frameworks, data analysis, RAG systems"
         },
         {
-          "name": "Python",
-          "level": 85,
+          "name": "Java",
+          "level": 80,
           "years": 4,
-          "description": "Automation, testing frameworks, data analysis"
+          "description": "Application development, enterprise solutions"
+        },
+        {
+          "name": "JavaScript",
+          "level": 75,
+          "years": 3,
+          "description": "Web development, React API, frontend applications"
         },
         {
           "name": "Rust",
-          "level": 70,
-          "years": 2,
-          "description": "System programming, performance-critical applications"
+          "level": 60,
+          "years": 1,
+          "description": "System programming basics, performance-critical applications"
+        },
+        {
+          "name": "Go",
+          "level": 60,
+          "years": 1,
+          "description": "Concurrent programming, microservices"
         }
       ]
     },
     {
-      "category": "System Software",
+      "category": "System Software & Tools",
       "skills": [
         {
           "name": "Linux Kernel",
+          "level": 95,
+          "years": 7,
+          "description": "Kernel module development, device drivers, upstream contributions"
+        },
+        {
+          "name": "Git",
           "level": 90,
-          "years": 5,
-          "description": "Kernel module development, device drivers"
+          "years": 6,
+          "description": "Version control, collaboration workflows, open source"
         },
         {
-          "name": "Windows Driver Development",
+          "name": "Jira",
           "level": 85,
-          "years": 4,
-          "description": "KMDF, UMDF, WDM drivers"
+          "years": 5,
+          "description": "Project management, issue tracking, agile workflows"
         },
         {
-          "name": "UEFI/BIOS",
-          "level": 75,
-          "years": 3,
-          "description": "Firmware development, system initialization"
-        },
-        {
-          "name": "Real-time Systems",
+          "name": "Android Studio",
           "level": 80,
           "years": 4,
-          "description": "FreeRTOS, deterministic programming"
+          "description": "Android development, mobile app debugging"
+        },
+        {
+          "name": "Visual Studio",
+          "level": 85,
+          "years": 5,
+          "description": "IDE, debugging, development environment"
+        },
+        {
+          "name": "Jenkins",
+          "level": 80,
+          "years": 4,
+          "description": "CI/CD pipelines, automated testing, deployment"
+        }
+      ]
+    },
+    {
+      "category": "AI & Automation",
+      "skills": [
+        {
+          "name": "Machine Learning",
+          "level": 90,
+          "years": 5,
+          "description": "AI algorithms, model development, automation frameworks"
+        },
+        {
+          "name": "LLMs & RAG",
+          "level": 85,
+          "years": 3,
+          "description": "Large Language Models, Retrieval-Augmented Generation, langchain"
+        },
+        {
+          "name": "GitHub Copilot",
+          "level": 80,
+          "years": 2,
+          "description": "AI-assisted coding, code generation, productivity tools"
+        },
+        {
+          "name": "Agentic AI",
+          "level": 75,
+          "years": 2,
+          "description": "Multi-agent systems, crewai, automated workflows"
+        },
+        {
+          "name": "AI-driven Debugging",
+          "level": 90,
+          "years": 4,
+          "description": "Log analysis, error classification, automated debugging tools"
+        },
+        {
+          "name": "Automation Tools",
+          "level": 85,
+          "years": 5,
+          "description": "n8n, Zapier, make.com, workflow automation"
         }
       ]
     },
@@ -68,124 +133,248 @@
       "category": "Graphics & Media",
       "skills": [
         {
-          "name": "DirectX",
+          "name": "Graphics Vulkan",
           "level": 85,
-          "years": 3,
-          "description": "D3D11/D3D12, DXVA, driver integration"
+          "years": 4,
+          "description": "Graphics pipeline, shader programming, driver integration"
         },
         {
-          "name": "OpenGL/Vulkan",
+          "name": "HDMI/DP",
           "level": 80,
           "years": 3,
-          "description": "Graphics pipeline, shader programming"
-        },
-        {
-          "name": "Intel Media SDK",
-          "level": 90,
-          "years": 4,
-          "description": "Hardware-accelerated media processing"
+          "description": "Display protocols, video output, driver development"
         },
         {
           "name": "Video Codecs",
           "level": 75,
-          "years": 2,
-          "description": "H.264, H.265, AV1 encoding/decoding"
-        }
-      ]
-    },
-    {
-      "category": "Hardware Platforms",
-      "skills": [
-        {
-          "name": "Intel x86/x64",
-          "level": 95,
-          "years": 6,
-          "description": "Architecture optimization, instruction sets"
-        },
-        {
-          "name": "ARM Cortex",
-          "level": 75,
           "years": 3,
-          "description": "Embedded systems, cross-compilation"
+          "description": "H.264, H.265, encoding/decoding, media processing"
         },
         {
-          "name": "PCIe/USB",
-          "level": 85,
-          "years": 4,
-          "description": "Device communication, protocol implementation"
-        },
-        {
-          "name": "I2C/SPI/UART",
+          "name": "Chrome OS",
           "level": 90,
           "years": 5,
-          "description": "Serial communication, sensor interfaces"
+          "description": "Platform development, driver integration, validation"
+        },
+        {
+          "name": "Android OS",
+          "level": 85,
+          "years": 4,
+          "description": "Mobile platform development, driver integration"
         }
       ]
     },
     {
-      "category": "Development Tools",
+      "category": "Web & Database",
       "skills": [
         {
-          "name": "Git/GitHub",
-          "level": 90,
-          "years": 6,
-          "description": "Version control, collaboration workflows"
-        },
-        {
-          "name": "Intel VTune",
+          "name": "React",
           "level": 85,
           "years": 3,
-          "description": "Performance profiling and optimization"
+          "description": "Frontend development, component-based architecture, state management"
         },
         {
-          "name": "WinDbg/GDB",
+          "name": "Tailwind CSS",
           "level": 80,
-          "years": 4,
-          "description": "Kernel and user-mode debugging"
+          "years": 2,
+          "description": "Utility-first CSS framework, responsive design, modern UI"
         },
         {
-          "name": "Jenkins/CI-CD",
+          "name": "Express.js",
+          "level": 85,
+          "years": 4,
+          "description": "Node.js backend framework, REST APIs, middleware"
+        },
+        {
+          "name": "Prisma",
+          "level": 80,
+          "years": 2,
+          "description": "Database ORM, type-safe database access, migrations"
+        },
+        {
+          "name": "PostgreSQL",
+          "level": 85,
+          "years": 4,
+          "description": "Relational database, complex queries, data modeling"
+        },
+        {
+          "name": "FastAPI",
+          "level": 80,
+          "years": 2,
+          "description": "Python web framework, async APIs, automatic documentation"
+        },
+        {
+          "name": "Streamlit",
+          "level": 90,
+          "years": 3,
+          "description": "Python web apps, data visualization, RAG interfaces, cloud deployment"
+        },
+        {
+          "name": "Docker",
+          "level": 80,
+          "years": 3,
+          "description": "Containerization, microservices, deployment automation"
+        },
+        {
+          "name": "Vercel",
+          "level": 85,
+          "years": 2,
+          "description": "Frontend deployment, serverless functions, edge computing"
+        },
+        {
+          "name": "Render",
+          "level": 80,
+          "years": 2,
+          "description": "Backend deployment, database hosting, CI/CD"
+        },
+        {
+          "name": "Hugging Face",
           "level": 75,
           "years": 2,
-          "description": "Automated testing and deployment"
+          "description": "AI model deployment, ML hosting, model sharing"
+        }
+      ]
+    },
+    {
+      "category": "Workflow & Automation Tools",
+      "skills": [
+        {
+          "name": "n8n",
+          "level": 85,
+          "years": 2,
+          "description": "Workflow automation, API integrations, business process automation"
+        },
+        {
+          "name": "Telegram Bot API",
+          "level": 80,
+          "years": 2,
+          "description": "Bot development, message handling, user interactions"
+        },
+        {
+          "name": "Google Sheets API",
+          "level": 85,
+          "years": 3,
+          "description": "Spreadsheet automation, data management, API integration"
+        },
+        {
+          "name": "Gmail API",
+          "level": 75,
+          "years": 2,
+          "description": "Email automation, notification systems, communication workflows"
+        },
+        {
+          "name": "Google Gemini API",
+          "level": 80,
+          "years": 2,
+          "description": "AI integration, chat models, intelligent automation"
+        }
+      ]
+    },
+    {
+      "category": "Operating Systems",
+      "skills": [
+        {
+          "name": "Linux-Ubuntu",
+          "level": 95,
+          "years": 7,
+          "description": "System administration, kernel development, server management"
+        },
+        {
+          "name": "Chrome OS",
+          "level": 90,
+          "years": 5,
+          "description": "Platform development, driver integration, validation"
+        },
+        {
+          "name": "Android OS",
+          "level": 85,
+          "years": 4,
+          "description": "Mobile development, driver integration, platform testing"
+        },
+        {
+          "name": "Windows",
+          "level": 80,
+          "years": 6,
+          "description": "Desktop development, driver development, system integration"
         }
       ]
     }
   ],
   "certifications": [
     {
-      "name": "Intel Developer Certificate",
-      "issuer": "Intel Corporation",
-      "year": 2023,
-      "status": "active"
+      "name": "AI and ChatGPT Tools Workshop",
+      "issuer": "Be10X",
+      "year": 2025,
+      "status": "completed"
     },
     {
-      "name": "Microsoft Certified: Azure IoT Developer",
+      "name": "Microsoft Certified Professional",
       "issuer": "Microsoft",
-      "year": 2022,
-      "status": "active"
+      "year": 2025,
+      "status": "in_progress"
     }
   ],
   "soft_skills": [
     {
       "name": "Problem Solving",
       "level": 95,
-      "description": "Complex system debugging and optimization"
+      "description": "Complex system debugging, kernel-level issue resolution, AI-driven solutions"
     },
     {
-      "name": "Team Collaboration",
+      "name": "Team Leadership",
       "level": 90,
-      "description": "Cross-functional team coordination"
+      "description": "Cross-team collaboration, ownership, accountability, domain integration"
     },
     {
       "name": "Technical Communication",
       "level": 85,
-      "description": "Documentation and knowledge sharing"
+      "description": "Published papers, technical documentation, knowledge sharing"
     },
     {
-      "name": "Project Management",
-      "level": 80,
-      "description": "Agile methodologies and deadline management"
+      "name": "Innovation & Automation",
+      "level": 95,
+      "description": "AI-driven automation, process improvement, innovative solutions"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "proficiency": 5,
+      "description": "Fluent"
+    },
+    {
+      "name": "Kannada",
+      "proficiency": 5,
+      "description": "Native"
+    },
+    {
+      "name": "Hindi",
+      "proficiency": 5,
+      "description": "Fluent"
+    },
+    {
+      "name": "Konkani",
+      "proficiency": 5,
+      "description": "Native"
+    },
+    {
+      "name": "Tulu",
+      "proficiency": 5,
+      "description": "Native"
+    }
+  ],
+  "open_source_contributions": [
+    {
+      "title": "Chrome OS Hardware Video Decoding Validation",
+      "description": "Contributed to improving hardware video decoding validation for tiled formats in Chrome OS. Demonstrated understanding of VA-API, display modifiers, and GPU-accelerated media stacks.",
+      "year": 2024,
+      "impact": "Enhanced video processing capabilities for Chrome OS platform"
+    },
+    {
+      "title": "Linux Kernel FP16 Compression Support",
+      "description": "Contributed a patch to the upstream Linux kernel enabling FP16 (16-bit floating point) compression format support for Intel's Meteor Lake (MTL) display engine in the i915 graphics driver.",
+      "year": 2024,
+      "impact": "Improved graphics performance and efficiency for Intel platforms"
     }
   ]
 }

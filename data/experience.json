@@ -3,156 +3,130 @@
     {
       "id": 1,
       "position": "System Software Development Engineer",
-      "company": "Intel Corporation",
-      "location": "Folsom, CA",
+      "company": "Intel Technology Pvt. Ltd.",
+      "location": "Bangalore, India",
       "type": "Full-time",
-      "start_date": "2022-06-01",
+      "start_date": "2019-04-01",
       "end_date": null,
       "current": true,
-      "duration": "2+ years",
-      "description": "Lead development of graphics and display drivers for Intel integrated GPU platforms, focusing on performance optimization and power management.",
+      "duration": "5+ years",
+      "description": "Software Engineer with 7 years of experience at Intel building AI-driven automation, validation pipelines, and debugging systems. Strong proficiency in C, C++, Python, Machine Learning, LLMs, RAG, with experience in drivers, OS integration (ChromeOS/Android) and system-level automation.",
       "responsibilities": [
-        "Designed and implemented graphics driver optimizations resulting in 25% performance improvement",
-        "Developed power management features reducing GPU power consumption by 30%",
-        "Led cross-functional team of 5 engineers in driver architecture redesign",
-        "Collaborated with hardware teams on silicon bring-up and validation",
-        "Mentored junior engineers on driver development best practices"
+        "Debugged and resolved 50+ critical kernel-level issues (GPU hangs, memory corruption, driver crashes), improving system stability across Intel platforms",
+        "Developed AI-powered debug automation systems using Python, ML, and LLMs, reducing manual debug time by 25-30%",
+        "Automated validation pipelines for GPU drivers and media/display features (HDMI, DP, Vulkan, codecs), ensuring compliance across ChromeOS/Android platforms",
+        "Designed and deployed an LLM-based log analysis assistant, enabling error classification, root-cause extraction, and faster resolution",
+        "Built Python test automation frameworks integrated with CI/CD pipelines for regression and performance validation",
+        "As Domain Integration Engineer, collaborated with multiple teams in Device driver, Firmware and Validation to resolve deadlocks on debugs and deliverables",
+        "Collaborated with Google to understand technical requirements and deliver solutions aligned with Chrome OS and Android development"
       ],
       "achievements": [
-        "Shipped driver updates to over 100M devices worldwide",
-        "Reduced customer-reported graphics issues by 40%",
-        "Received Intel Achievement Award for outstanding performance"
+        "Recognized as a top performer and received DRA and SRA (Prestigious Intel Awards) awards for automation and innovation",
+        "Published 3 papers on AI and Graphics PnP features in Intel conferences",
+        "Reduced debugging time by 25-30% through AI-based automation tools",
+        "Successfully delivered cross-team solutions to Google for ChromeOS/Android platforms"
       ],
-      "technologies": ["C", "C++", "DirectX", "OpenGL", "Vulkan", "Windows Driver Kit"],
-      "projects": [1, 2]
+      "technologies": ["C", "C++", "Python", "Machine Learning", "LLMs", "RAG", "Linux", "Chrome OS", "Android OS", "AI", "ML", "DL"],
+      "projects": [1, 2, 3]
     },
     {
       "id": 2,
-      "position": "Software Engineer",
-      "company": "Intel Corporation",
-      "location": "Folsom, CA",
-      "type": "Full-time",
-      "start_date": "2020-07-01",
-      "end_date": "2022-05-31",
-      "current": false,
-      "duration": "1 year 11 months",
-      "description": "Developed system software and media processing solutions for Intel platforms, focusing on hardware acceleration and performance optimization.",
-      "responsibilities": [
-        "Implemented media processing pipeline with hardware acceleration",
-        "Developed hardware abstraction layer for cross-platform compatibility",
-        "Created automated testing frameworks for driver validation",
-        "Optimized video encoding/decoding performance using SIMD instructions",
-        "Collaborated with firmware teams on hardware interface specifications"
-      ],
-      "achievements": [
-        "Achieved 40% faster video encoding performance",
-        "Enabled real-time 4K video processing capability",
-        "Contributed to 3 patent applications for media processing innovations"
-      ],
-      "technologies": ["C++", "Intel Media SDK", "SIMD", "Threading", "CMake"],
-      "projects": [3, 4]
-    },
-    {
-      "id": 3,
-      "position": "Junior Software Engineer",
-      "company": "Intel Corporation",
-      "location": "Folsom, CA",
-      "type": "Full-time",
-      "start_date": "2019-08-01",
-      "end_date": "2020-06-30",
-      "current": false,
-      "duration": "11 months",
-      "description": "Entry-level position focusing on embedded systems development and hardware integration for IoT and edge computing platforms.",
-      "responsibilities": [
-        "Developed firmware for embedded IoT devices",
-        "Implemented device drivers for various sensors and peripherals",
-        "Created board support packages for new hardware platforms",
-        "Participated in hardware bring-up and validation activities",
-        "Wrote technical documentation and user guides"
-      ],
-      "achievements": [
-        "Successfully brought up 5 new embedded platforms",
-        "Reduced firmware boot time by 50%",
-        "Completed Intel New Graduate Training Program with distinction"
-      ],
-      "technologies": ["C", "FreeRTOS", "I2C/SPI", "ARM Cortex", "Embedded Linux"],
-      "projects": []
-    },
-    {
-      "id": 4,
-      "position": "Software Engineering Intern",
-      "company": "Intel Corporation",
-      "location": "Folsom, CA",
+      "position": "Intern",
+      "company": "Intel Technology Pvt. Ltd.",
+      "location": "Bangalore, India",
       "type": "Internship",
-      "start_date": "2019-06-01",
-      "end_date": "2019-08-31",
+      "start_date": "2018-06-01",
+      "end_date": "2019-04-01",
       "current": false,
-      "duration": "3 months",
-      "description": "Summer internship focusing on driver development and system optimization for Intel graphics platforms.",
+      "duration": "10 months",
+      "description": "Worked on testing Best Known Configuration (BKC) and Power & Performance (PnP) for server platforms. Built automation framework using Raspberry Pi and relay switches.",
       "responsibilities": [
-        "Analyzed graphics driver performance bottlenecks",
-        "Implemented performance monitoring tools",
-        "Conducted benchmarking and validation testing",
-        "Contributed to driver debugging and issue resolution",
-        "Presented findings to engineering leadership"
+        "Worked on testing Best Known Configuration (BKC) and Power & Performance (PnP) for server platforms",
+        "Built automation framework using Raspberry Pi and relay switches",
+        "Developed a machine learning-based automation framework to streamline SysDebug processes"
       ],
       "achievements": [
-        "Identified and fixed critical performance regression",
-        "Developed automated testing script adopted by team",
-        "Received offer for full-time position"
+        "Reduced debugging time by implementing AI-based automation tools",
+        "Received accolades for innovative automation solutions"
       ],
-      "technologies": ["C++", "Python", "WinDbg", "Intel VTune", "Git"],
-      "projects": [5, 6]
+      "technologies": ["Python", "Machine Learning", "Raspberry Pi", "Automation", "Server Platforms"],
+      "projects": [4]
     }
   ],
   "education": [
     {
-      "degree": "Bachelor of Science in Computer Science",
-      "institution": "University of California, Davis",
-      "location": "Davis, CA",
-      "start_year": 2015,
-      "end_year": 2019,
-      "gpa": "3.8/4.0",
+      "degree": "Master of Science in Information Science",
+      "institution": "Manipal University",
+      "location": "Manipal, India",
+      "start_year": 2016,
+      "end_year": 2018,
+      "gpa": "9.64/10",
       "relevant_coursework": [
-        "Operating Systems",
-        "Computer Architecture",
-        "Systems Programming",
-        "Embedded Systems",
-        "Computer Graphics",
-        "Data Structures and Algorithms"
+        "Machine Learning",
+        "Data Structures and Algorithms",
+        "Database Management Systems",
+        "Software Engineering",
+        "Computer Networks",
+        "Information Systems"
       ],
       "activities": [
-        "IEEE Computer Society Member",
-        "Women in Tech Club Secretary",
-        "ACM Programming Contest Participant"
+        "Research in AI and Machine Learning",
+        "Academic Excellence Award",
+        "Technical Paper Presentations"
+      ]
+    },
+    {
+      "degree": "Bachelor of Computer Application",
+      "institution": "SDM College",
+      "location": "Mangalore, India",
+      "start_year": 2013,
+      "end_year": 2016,
+      "gpa": "86.60%",
+      "relevant_coursework": [
+        "Programming Fundamentals",
+        "Database Systems",
+        "Web Technologies",
+        "Computer Networks",
+        "Software Development",
+        "System Analysis and Design"
+      ],
+      "activities": [
+        "Programming Competitions",
+        "Technical Club Member",
+        "Academic Excellence"
       ]
     }
   ],
   "timeline_highlights": [
     {
-      "year": "2019",
-      "title": "Graduated UC Davis",
-      "description": "B.S. Computer Science, 3.8 GPA"
+      "year": "2016",
+      "title": "Started Master's Program",
+      "description": "M.S. Information Science at Manipal University"
+    },
+    {
+      "year": "2018",
+      "title": "Graduated with Distinction",
+      "description": "M.S. Information Science, 9.64/10 CGPA"
+    },
+    {
+      "year": "2018",
+      "title": "Joined Intel as Intern",
+      "description": "Started working on BKC and PnP testing"
     },
     {
       "year": "2019",
-      "title": "Joined Intel",
-      "description": "Started as Software Engineering Intern"
-    },
-    {
-      "year": "2020",
-      "title": "Promoted to Software Engineer",
-      "description": "Full-time role in system software development"
+      "title": "Promoted to Full-time Engineer",
+      "description": "System Software Development Engineer at Intel"
     },
     {
       "year": "2022",
-      "title": "Senior Engineer Promotion",
-      "description": "Advanced to System Software Development Engineer"
+      "title": "AI Innovation Recognition",
+      "description": "Received DRA and SRA awards for automation"
     },
     {
       "year": "2024",
-      "title": "Technical Leadership",
-      "description": "Leading graphics driver optimization initiatives"
+      "title": "Open Source Contributions",
+      "description": "Contributed to Linux kernel and Chrome OS"
     }
   ]
 }
