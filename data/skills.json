@@ -24,19 +24,19 @@
         {
           "name": "Java",
           "level": 80,
-          "years": 4,
+          "years": 0.5,
           "description": "Application development, enterprise solutions"
         },
         {
           "name": "JavaScript",
           "level": 75,
-          "years": 3,
+          "years": 2,
           "description": "Web development, React API, frontend applications"
         },
         {
           "name": "Rust",
           "level": 60,
-          "years": 1,
+          "years": 0.25,
           "description": "System programming basics, performance-critical applications"
         },
         {
@@ -89,14 +89,20 @@
         {
           "name": "JMeter",
           "level": 85,
-          "years": 3,
+          "years": 0.25,
           "description": "Performance testing, load testing, API testing, APCOG Labs experience"
         },
         {
           "name": "Selenium",
           "level": 80,
-          "years": 3,
+          "years": 0.25,
           "description": "Web automation testing, test automation frameworks, APCOG Labs experience"
+        },
+        {
+          "name": "Cursor IDE",
+          "level": 85,
+          "years": 1,
+          "description": "AI-powered code editor, intelligent code completion, development productivity"
         }
       ]
     },
@@ -112,13 +118,13 @@
         {
           "name": "LLMs & RAG",
           "level": 85,
-          "years": 3,
+          "years": 2,
           "description": "Large Language Models, Retrieval-Augmented Generation, langchain"
         },
         {
           "name": "GitHub Copilot",
           "level": 80,
-          "years": 2,
+          "years": 1,
           "description": "AI-assisted coding, code generation, productivity tools"
         },
         {
@@ -136,7 +142,7 @@
         {
           "name": "Automation Tools",
           "level": 85,
-          "years": 5,
+          "years": 1,
           "description": "n8n, Zapier, make.com, workflow automation"
         }
       ]
@@ -306,7 +312,7 @@
         {
           "name": "Android App Development",
           "level": 80,
-          "years": 3,
+          "years": 1,
           "description": "Mobile application development, Java/Kotlin, Android Studio, Manipal University projects"
         },
         {

@@ -134,13 +134,12 @@
       "icon": "fas fa-laptop-code",
       "year": "2024",
       "details": {
-        "role": "Software Development Engineer",
+        "role": "Software Development Engineer at Intel",
         "duration": "Ongoing",
         "team_size": 3,
         "impact": "Training and optimizing LLMs for embedded systems, performance measurement"
       },
       "links": {
-        "github": "https://github.com/mellobo05"
       }
     }
   ],
