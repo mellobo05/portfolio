@@ -193,6 +193,18 @@ document.addEventListener('DOMContentLoaded', function() {
 // Dynamic Content Loading
 // ========================
 
+// Format years display
+function formatYears(years) {
+    if (years < 1) {
+        const months = Math.round(years * 12);
+        return months === 1 ? '1 month' : `${months} months`;
+    } else if (years === 1) {
+        return '1 year';
+    } else {
+        return `${years} years`;
+    }
+}
+
 // Load and display skills data
 async function loadSkills() {
     try {
@@ -243,7 +255,7 @@ function displaySkills(skills, container) {
                             <div class="skill-progress" style="width: ${skill.level}%"></div>
                         </div>
                         <div class="skill-details">
-                            <span class="skill-years">${skill.years} years</span>
+                            <span class="skill-years">${formatYears(skill.years)}</span>
                             <p class="skill-description">${skill.description}</p>
                         </div>
                     </div>
