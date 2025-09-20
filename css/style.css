@@ -1264,12 +1264,17 @@ input[type="checkbox"] {
 
 .footer-info h3 {
     color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
     margin-bottom: 0.5rem;
+    line-height: 1.2;
 }
 
 .footer-info p {
     color: #cbd5e1;
+    font-size: 1rem;
     margin: 0;
+    font-weight: 400;
 }
 
 .footer-social {
@@ -1281,13 +1286,15 @@ input[type="checkbox"] {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     background: #334155;
     color: white;
-    border-radius: 8px;
+    border-radius: 12px;
     text-decoration: none;
     transition: all 0.3s ease;
+    font-size: 1.3rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 .footer-social a:hover {
@@ -2125,32 +2132,66 @@ html {
     line-height: 1.6;
 }
 
-.quick-info {
+.contact-details-simple {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.5rem;
 }
 
-.info-item {
+.contact-item-simple {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1.5rem;
+    background: #f8fafc;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.contact-item-simple:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+.contact-icon-simple {
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    border-radius: 50%;
     display: flex;
     align-items: center;
-    gap: 1rem;
-    padding: 0.75rem;
-    background: #f8fafc;
-    border-radius: 8px;
-    border-left: 4px solid #3b82f6;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 1.2rem;
+    color: white;
 }
 
-.info-item i {
-    color: #3b82f6;
+.contact-text h4 {
     font-size: 1.1rem;
-    width: 20px;
-    text-align: center;
+    font-weight: 600;
+    color: #1e293b;
+    margin-bottom: 0.5rem;
 }
 
-.info-item span {
-    color: #1e293b;
+.contact-text p {
+    color: #64748b;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+}
+
+.contact-link {
+    color: #3b82f6;
+    text-decoration: none;
     font-weight: 500;
+    font-size: 0.95rem;
+    transition: color 0.2s ease;
+}
+
+.contact-link:hover {
+    color: #1d4ed8;
+    text-decoration: underline;
 }
 
 @media (max-width: 768px) {
