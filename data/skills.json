@@ -188,67 +188,67 @@
         {
           "name": "React",
           "level": 85,
-          "years": 3,
+          "years": 1,
           "description": "Frontend development, component-based architecture, state management"
         },
         {
           "name": "Tailwind CSS",
           "level": 80,
-          "years": 2,
+          "years": 0.5,
           "description": "Utility-first CSS framework, responsive design, modern UI"
         },
         {
           "name": "Express.js",
           "level": 85,
-          "years": 4,
+          "years": 0.25,
           "description": "Node.js backend framework, REST APIs, middleware"
         },
         {
           "name": "Prisma",
           "level": 80,
-          "years": 2,
+          "years": 0.25,
           "description": "Database ORM, type-safe database access, migrations"
         },
         {
           "name": "PostgreSQL",
           "level": 85,
-          "years": 4,
+          "years": 0.25,
           "description": "Relational database, complex queries, data modeling"
         },
         {
           "name": "FastAPI",
           "level": 80,
-          "years": 2,
+          "years": 0.25,
           "description": "Python web framework, async APIs, automatic documentation"
         },
         {
           "name": "Streamlit",
           "level": 90,
-          "years": 3,
+          "years": 0.25,
           "description": "Python web apps, data visualization, RAG interfaces, cloud deployment"
         },
         {
           "name": "Docker",
           "level": 80,
-          "years": 3,
+          "years": 0.25,
           "description": "Containerization, microservices, deployment automation"
         },
         {
           "name": "Vercel",
           "level": 85,
-          "years": 2,
+          "years": 0.25,
           "description": "Frontend deployment, serverless functions, edge computing"
         },
         {
           "name": "Render",
           "level": 80,
-          "years": 2,
+          "years": 0.25,
           "description": "Backend deployment, database hosting, CI/CD"
         },
         {
           "name": "Hugging Face",
           "level": 75,
-          "years": 2,
+          "years": 0.25,
           "description": "AI model deployment, ML hosting, model sharing"
         }
       ]
@@ -259,33 +259,9 @@
         {
           "name": "n8n",
           "level": 85,
-          "years": 2,
+          "years": 0.25,
           "description": "Workflow automation, API integrations, business process automation"
         },
-        {
-          "name": "Telegram Bot API",
-          "level": 80,
-          "years": 2,
-          "description": "Bot development, message handling, user interactions"
-        },
-        {
-          "name": "Google Sheets API",
-          "level": 85,
-          "years": 3,
-          "description": "Spreadsheet automation, data management, API integration"
-        },
-        {
-          "name": "Gmail API",
-          "level": 75,
-          "years": 2,
-          "description": "Email automation, notification systems, communication workflows"
-        },
-        {
-          "name": "Google Gemini API",
-          "level": 80,
-          "years": 2,
-          "description": "AI integration, chat models, intelligent automation"
-        }
       ]
     },
     {
@@ -306,7 +282,7 @@
         {
           "name": "Android OS",
           "level": 85,
-          "years": 4,
+          "years": 1,
           "description": "Mobile development, driver integration, platform testing"
         },
         {
@@ -318,7 +294,7 @@
         {
           "name": "Windows",
           "level": 80,
-          "years": 6,
+          "years": 1,
           "description": "Desktop development, driver development, system integration"
         }
       ]
