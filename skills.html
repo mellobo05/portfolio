@@ -103,5 +103,12 @@
     </footer>
 
     <script src="js/script.js"></script>
+    <script>
+        // Ensure skills load on this page
+        document.addEventListener('DOMContentLoaded', function() {
+            // Small delay to ensure other scripts have loaded
+            setTimeout(loadSkills, 100);
+        });
+    </script>
 </body>
 </html>

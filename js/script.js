@@ -207,9 +207,13 @@ function formatYears(years) {
 
 // Load and display skills data
 async function loadSkills() {
+    console.log('loadSkills function called');
     try {
+        console.log('Fetching skills data...');
         const response = await fetch('data/skills.json');
+        console.log('Response status:', response.status);
         const data = await response.json();
+        console.log('Skills data loaded:', data);
         
         const skillsContainer = document.getElementById('skills-container');
         const certificationsContainer = document.getElementById('certifications-container');
